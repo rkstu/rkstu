@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Rahul Kumar
 
 
-- 🔭 I’m currently working on ### Algorithem Trading bot in python
+- 🔭 I’m currently working on -- Algorithem Trading bot in python
 
 - 🌱 I’m currently learning ### OOP,DSA,DBS
 
