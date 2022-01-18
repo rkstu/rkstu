@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **python,C++,basic R**
 
-- 📫 How to reach me: **lightfreemate@gmail.com**
+- 📫 How to reach me: **lightfreemate@gmail.com** or **[Linkdin.com](https://www.linkedin.com/in/rkzero/)**
 
 - ⚡ Fun fact: **I love watching Anime in my free time**
 
