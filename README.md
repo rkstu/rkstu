@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **OOP,DSA,DBS**
 
-- 👯 I’m looking to collaborate on **Invotive projects or Hackhathons based on Finance and programming **
+- 👯 I’m looking to collaborate on **Invotive projects or Hackhathons based on Finance and programming**
 
 - 💬 Ask me about **python,C++,basic R**
 
