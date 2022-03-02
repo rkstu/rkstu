@@ -2,11 +2,9 @@
 
 
 
-- 🔭 I’m currently working on **Algorithem Trading bot in python**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **OOP,DSA,DBS**
-
-- 👯 I’m looking to collaborate on **Invotive projects or Hackhathons based on Finance and programming**
 
 - 💬 Ask me about **python,C++,basic R**
 
