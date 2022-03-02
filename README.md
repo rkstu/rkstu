@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **OOP,DSA,DBS**
 
-- 💬 Ask me about **python,C++,basic R**
+- 💬 Ask me about **JavaScript, basic python, C++,basic R**
 
 - 📫 How to reach me: **lightfreemate@gmail.com** or **[Linkdin.com](https://www.linkedin.com/in/rkzero/)**
 
