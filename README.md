@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Blockchain project**
 
-- 🌱 I’m currently learning **OOP,DSA,DBS**
+- 🌱 I’m currently learning **Solidity, Blockchain, and Smart Contract**
 
-- 💬 Ask me about **JavaScript, basic python, C++,basic R**
+- 💬 Ask me about **JavaScript, python, C++, java, MongoDB, NodeJs, ExpressJs**
 
 - 📫 How to reach me: **lightfreemate@gmail.com** or **[Linkdin.com](https://www.linkedin.com/in/rkzero/)**
 
