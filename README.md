@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on **Blockchain project**
+- 🔭 I’m currently working on a **Blockchain project**
 
 - 🌱 I’m currently learning **Solidity, Blockchain, and Smart Contract**
 
