@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on a **Blockchain project**
+- 🔭 I’m currently working on a **Machine learning project**
 
-- 🌱 I’m currently learning **Solidity, Blockchain, and Smart Contract**
+- 🌱 I’m currently learning machine learning concepts such as **Learning Supervised Learning, Deep Neural Networks etc**
 
 - 💬 Ask me about **JavaScript, python, C++, java, MongoDB, NodeJs, ExpressJs**
 
