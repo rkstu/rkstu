@@ -1,11 +1,6 @@
 ## Hi 👋, I'm Rahul Kumar
 
 
-
-- 🔭 I’m currently working on a **Machine learning project**
-
-- 🌱 I’m currently learning machine learning concepts such as **Learning Supervised Learning, Deep Neural Networks etc**
-
 - 💬 Ask me about **Python, C++, java, JavaScript**
 
 - 📫 How to reach me: **lightfreemate@gmail.com** or **[Linkdin.com](https://www.linkedin.com/in/rkzero/)**
