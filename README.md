@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python, C++, java, JavaScript**
 
-- 📫 How to reach me: **lightfreemate@gmail.com** or **[Linkdin.com](https://www.linkedin.com/in/rkzero/)**
+- 📫 How to reach me: **rkmailcode@gmail.com** or **[Linkdin.com](https://www.linkedin.com/in/rkzero/)**
 
 - ⚡ Fun fact: **I love watching Anime in my free time**
 
