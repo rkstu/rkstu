@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Rahul Kumar
 
 
-- 💬 Ask me about **Python, C++, data analysis, Machine learning, web development**
+- 💬 Ask me about **Python, C++, data analysis, Machine learning**
 
 - 📫 How to reach me: **rkmailcode@gmail.com** or **[Linkdin.com](https://www.linkedin.com/in/rkzero/)**
 
