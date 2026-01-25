@@ -4,9 +4,12 @@
 
 I'm an Applied AI Engineer focused on making autonomous systems safe before deployment rather than reacting after failures occur.
 
-At DevRev, I observed autonomous agents achieving high task success rates while violating safety constraints in ways traditional monitoring missed. This experience shaped my research into detecting unsafe behavior through internal model representations rather than relying solely on outputs.
+During my master's at NIT Warangal, I studied Vision Transformers for medical imaging and discovered that models achieving 94% accuracy were relying on image artifacts rather than actual disease features. This shortcut learning meant they looked successful in testing but would fail on real patients. That experience taught me that high performance metrics can hide critical safety failures.
 
-My work bridges production AI systems and safety research, investigating why current evaluation methods fail to surface critical safety violations in real-world deployments.
+At DevRev, I saw this pattern repeat with autonomous agents achieving 95% task success while violating safety constraints that traditional monitoring missed. The agents were completing tasks successfully but bypassing the policies meant to keep them safe. This observation shaped my current research into detecting unsafe behavior through internal model representations rather than just evaluating outputs.
+
+My work now bridges production AI systems and safety research, investigating why standard evaluation methods consistently fail to surface violations that matter in real-world deployments.
+
 
 ## Research Focus
 
