@@ -1,52 +1,28 @@
-Rahul Kumar: AI Research Engineer | Agentic AI Safety & Interpretability
-========================================================================
+# Applied AI Engineer | AI Safety & Interpretability
 
-* * * * *
+## About Me
 
-👋 **Hello, I'm Rahul.** I am an Applied AI Engineer and Researcher focused on building robust, auditable, and reliable autonomous systems for real-world deployment. My work is driven by the mandate for safe Artificial General Intelligence (AGI) and responsible enterprise adoption.
+I'm an Applied AI Engineer focused on making autonomous systems safe before deployment rather than reacting after failures occur.
 
-My specialization lies at the intersection of deep learning execution and methodological rigor. I translate failure analysis from high-stakes enterprise settings into improved **evaluation frameworks** for the next generation of LLM agents.
+At DevRev, I observed autonomous agents achieving high task success rates while violating safety constraints in ways traditional monitoring missed. This experience shaped my research into detecting unsafe behavior through internal model representations rather than relying solely on outputs.
 
-## 🧠 Research Focus & Core Competencies
+My work bridges production AI systems and safety research, investigating why current evaluation methods fail to surface critical safety violations in real-world deployments.
 
-| Category           | Key Proficiencies                                                                                 |
-|--------------------|----------------------------------------------------------------------------------------------------|
-| **Primary Focus**  | Agentic AI Safety, Interpretability (XAI), LLM Evaluation, Alignment & Auditability               |
-| **Frameworks**     | PyTorch, Hugging Face, LangChain, Deep Learning (Transformers), FAISS, scikit-learn               |
-| **Cloud & Ops**    | Google Cloud (Vertex AI, Gemini), Azure ML, Docker, Git                                           |
-| **Languages**      | Python, C++, SQL, REST APIs                                                                        |
+## Research Focus
 
+- **Pre-execution safety detection** through internal activation monitoring to identify unsafe decisions before execution
+- **Evaluation framework limitations** where high task success masks policy and safety violations in multi-step agent reasoning  
+- **Interpretability for safety-critical systems** exposing shortcut learning and spurious correlations that undermine reliability
+- **Adversarial robustness testing** for production AI systems facing schema changes and noisy data beyond standard benchmarks
 
-🔬 Featured Work: From Applied Engineering to Foundational Safety
------------------------------------------------------------------
+## Current Work
 
-My portfolio emphasizes technical rigor and a commitment to transparency, demonstrating the "unusual self-direction" sought by frontier labs.
+Building agent safety evaluation systems at DevRev and extending robustness benchmarks for CRM agents through adversarial testing. Previously designed human-in-the-loop evaluation pipelines that improved prediction accuracy from 72% to 89% while maintaining oversight.
 
-### 1\. Agentic System Safety & Evaluation (DevRev Enterprise Experience)
+## Writing
 
-This research direction emerged from observing agent failure patterns in high-stakes enterprise settings (DevRev).
+📝 [Building Enterprise AI That Works](https://medium.com/@rahulkumar_dev/building-enterprise-ai-that-actually-does-things-what-im-learning-about-autonomous-agents-eae64308bf53) on agent failure modes and safety-capability tradeoffs (Medium, 2025)  
+📝 [Detecting Shortcuts in Medical Vision Transformers](https://medium.com/@rahulkumar_dev/why-i-built-an-ai-that-sees-less-to-diagnose-better-2606bc39b6ba) on attention mechanisms for robustness (Medium, 2024)
 
--   **The Problem:** Existing, static evaluations do not capture the temporal and context-dependent errors that occur when multi-step agents struggle to balance tool execution with safety constraints over long-horizon tasks. I refer to this failure mode as **Instruction Safety Conflicts**.
-
--   **Contribution:** Developed systematic documentation and new **evaluation frameworks** that support reliable, accountable, and policy-aligned deployment of agentic systems. This work directly addresses the need for robust technical guardrails and responsible AI principles in cloud environments.
-
-### 2\. Interpretability in Vision Transformers for Clinical Diagnosis
-
--   **Project:** Final year academic project focused on **Vision Transformers (ViT)** for Retinal Disease Diagnosis.
-
--   **Highlight:** The focus was not on raw performance, but on engineering systems that foster trust. I developed grayscale ViT models with **focused-attention mechanisms** to produce interpretable heatmaps, demonstrating an early commitment to **Explainable AI (XAI)** and clinically aligned model design.
-
-* * * * *
-
-🏆 Achievements & Connect
--------------------------
-
--   💬 Ask me about **LLM Fine-tuning (LoRA), MLOps, and RAG architectures**.
-
--   🥇 **Achievement:** Winner - Best Use of AI in Education, MLH Month-Long Hackathon.
-
--   📫 **Email:** `rahulkc.dev@gmail.com`
-
--   🔗 **LinkedIn:** [Linkdin.com](https://www.linkedin.com/in/rkzero/)
-
--   ⚡ Fun fact: I love watching Anime in my free time.
+## Connect
+📧 rahulkc.dev@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rkzero/) | 📝 [Medium](http://medium.com/@rahulkumar_dev/)
