@@ -22,10 +22,15 @@ My work now bridges production AI systems and safety research, investigating why
 
 Building agent safety evaluation systems at DevRev and extending robustness benchmarks for CRM agents through adversarial testing. Previously designed human-in-the-loop evaluation pipelines that improved prediction accuracy from 72% to 89% while maintaining oversight.
 
+
 ## Writing
 
-📝 [Building Enterprise AI That Works](https://medium.com/@rahulkumar_dev/building-enterprise-ai-that-actually-does-things-what-im-learning-about-autonomous-agents-eae64308bf53) on agent failure modes and safety-capability tradeoffs (Medium, 2025)  
-📝 [Detecting Shortcuts in Medical Vision Transformers](https://medium.com/@rahulkumar_dev/why-i-built-an-ai-that-sees-less-to-diagnose-better-2606bc39b6ba) on attention mechanisms for robustness (Medium, 2024)
+📝 [Building CRM Agents That Survive Production](https://medium.com/@rahulkumar_dev/building-crm-agents-that-survive-production-793498b80a3c) on adversarial robustness testing and multi-dimensional agent evaluation (Medium, 2025)
+
+📝 [Building Enterprise AI That Works](link) on agent failure modes and safety-capability tradeoffs (Medium, 2025)
+
+📝 [Detecting Shortcuts in Medical Vision Transformers](link) on attention mechanisms for robustness (Medium, 2024)
 
 ## Connect
-📧 rahulkc.dev@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rkzero/) | 📝 [Medium](http://medium.com/@rahulkumar_dev/)
+
+📧 rahulkc.dev@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rkzero/) | 📝 [Medium](https://medium.com/@rahulkumar_dev)
