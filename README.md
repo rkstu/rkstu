@@ -27,9 +27,9 @@ Building agent safety evaluation systems at DevRev and extending robustness benc
 
 📝 [Building CRM Agents That Survive Production](https://medium.com/@rahulkumar_dev/building-crm-agents-that-survive-production-793498b80a3c) on adversarial robustness testing and multi-dimensional agent evaluation (Medium, 2025)
 
-📝 [Building Enterprise AI That Works](link) on agent failure modes and safety-capability tradeoffs (Medium, 2025)
+📝 [Building Enterprise AI That Works](https://medium.com/@rahulkumar_dev/building-enterprise-ai-that-actually-does-things-what-im-learning-about-autonomous-agents-eae64308bf53) on agent failure modes and safety-capability tradeoffs (Medium, 2025)
 
-📝 [Detecting Shortcuts in Medical Vision Transformers](link) on attention mechanisms for robustness (Medium, 2024)
+📝 [Detecting Shortcuts in Medical Vision Transformers]([link](https://medium.com/@rahulkumar_dev/why-i-built-an-ai-that-sees-less-to-diagnose-better-2606bc39b6ba)) on attention mechanisms for robustness (Medium, 2024)
 
 ## Connect
 
