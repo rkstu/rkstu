@@ -20,7 +20,7 @@ This gap between benchmark success and real world behavior drives my current wor
 ## Current Work
 
 * **Applied AI Engineer at DevRev** Designing robust agent architectures and investigating the gap between standard task success metrics and real world reliability in high throughput enterprise LLM deployments.
-* **Entropic CRMArena** Developed an empirical evaluation and adversarial robustness testing framework for autonomous agents winning the UC Berkeley RDI AgentX Competition Legendary Tier.
+* **Entropic CRMArena** Developed an empirical evaluation and adversarial robustness testing framework for autonomous agents winning 1st prize in the UC Berkeley RDI AgentX Competition in the Business Process Agent track and receiving the Legendary Tier.
 * **Previous Work** Engineered scalable oversight pipelines at Optevus LLC experimenting with ranking strategies that improved evaluation accuracy from 72 percent to 89 percent while reducing manual review time.
 
 ## Core Skills
