@@ -1,26 +1,35 @@
-# Applied AI Engineer | AI Safety & Interpretability
+# Applied AI Engineer | AI Safety and Alignment
 
 ## About Me
 
-I'm an Applied AI Engineer focused on making autonomous systems safe before deployment rather than reacting after failures occur.
+I am an Applied AI Engineer focused on empirical model control and advancing adversarial robustness in autonomous systems.
 
-During my master's at NIT Warangal, I studied Vision Transformers for medical imaging and discovered that models achieving 94% accuracy were relying on image artifacts rather than actual disease features. This shortcut learning meant they looked successful in testing but would fail on real patients. That experience taught me that high performance metrics can hide critical safety failures.
+My interest in model reliability started during my Master of Computer Applications at the National Institute of Technology Warangal where I researched efficiency and accuracy tradeoffs in Vision Transformers. I realized early on that optimizing solely for standard performance metrics often masks how brittle models can be under constraints.
 
-At DevRev, I saw this pattern repeat with autonomous agents achieving 95% task success while violating safety constraints that traditional monitoring missed. The agents were completing tasks successfully but bypassing the policies meant to keep them safe. This observation shaped my current research into detecting unsafe behavior through internal model representations rather than just evaluating outputs.
+At DevRev I saw this play out at scale in production. I analyzed agentic systems that met high task success metrics but systematically violated safety guardrails exposing critical out of distribution vulnerabilities.
 
-My work now bridges production AI systems and safety research, investigating why standard evaluation methods consistently fail to surface violations that matter in real-world deployments.
-
+This gap between benchmark success and real world behavior drives my current work. I focus on bridging production engineering and safety research by combining scalable oversight with empirical adversarial testing to build rigorous safety guarantees for frontier AI systems.
 
 ## Research Focus
 
-- **Pre-execution safety detection** through internal activation monitoring to identify unsafe decisions before execution
-- **Evaluation framework limitations** where high task success masks policy and safety violations in multi-step agent reasoning  
-- **Interpretability for safety-critical systems** exposing shortcut learning and spurious correlations that undermine reliability
-- **Adversarial robustness testing** for production AI systems facing schema changes and noisy data beyond standard benchmarks
+* **Adversarial Robustness Testing** Building frameworks with configurable schema perturbation testing to measure out of distribution robustness without retraining.
+* **Empirical Model Evaluations** Designing context injection attacks using semantically plausible distractors to test filtering and reward hacking.
+* **Scalable Oversight** Engineering human in the loop workflows and confidence calibration methods for hybrid evaluation loops.
+* **Multi Step Agent Reasoning** Developing multi dimensional scoring frameworks to track functional accuracy error recovery and hallucination rates with minimal latency overhead.
 
 ## Current Work
 
-Building agent safety evaluation systems at DevRev and extending robustness benchmarks for CRM agents through adversarial testing. Previously designed human-in-the-loop evaluation pipelines that improved prediction accuracy from 72% to 89% while maintaining oversight.
+* **Applied AI Engineer at DevRev** Designing robust agent architectures and investigating the gap between standard task success metrics and real world reliability in high throughput enterprise LLM deployments.
+* **Entropic CRMArena** Developed an empirical evaluation and adversarial robustness testing framework for autonomous agents winning the UC Berkeley RDI AgentX Competition Legendary Tier.
+* **Previous Work** Engineered scalable oversight pipelines at Optevus LLC experimenting with ranking strategies that improved evaluation accuracy from 72 percent to 89 percent while reducing manual review time.
+
+## Core Skills
+
+* **Languages and Frameworks** Python C++ TypeScript FastAPI SQL REST APIs
+* **Machine Learning and AI** Deep Learning LLMs NLP PyTorch Hugging Face Sentence Transformers FAISS
+* **Tools and Libraries** LangChain scikit learn Pandas NumPy SciPy
+* **Infrastructure** Google Cloud Vertex AI Gemini Azure ML Docker Git Hugging Face Spaces
+* **Research and Evaluation** HITL XAI Safety Evaluation LLM as Judge Scalable Oversight
 
 
 ## Writing
@@ -34,3 +43,5 @@ Building agent safety evaluation systems at DevRev and extending robustness benc
 ## Connect
 
 📧 rahulkc.dev@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rkzero/) | 📝 [Medium](https://medium.com/@rahulkumar_dev)
+
+Feel free to reach out if you want to chat about empirical alignment agentic workflows or adversarial robustness.
