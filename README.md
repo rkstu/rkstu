@@ -43,4 +43,4 @@ Adversarial robustness testing for autonomous business process agents. Hydra pip
 
 ## Contact
 
-rahulkc.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/rkzero/)
+rahulkc.dev@gmail.com | [Google Scholar](https://scholar.google.com/citations?hl=en&user=iNctquYAAAAJ) | [LinkedIn](https://www.linkedin.com/in/rkzero/) 
